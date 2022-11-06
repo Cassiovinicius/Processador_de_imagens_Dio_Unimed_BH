@@ -50,14 +50,6 @@ from image-processing-ghf-package.processing import transformation
 transformation.resize_image(image_test, 0.5)
 ```
 ---
-## Autor
-Geraldo Henrique Fonseca
 
-## Licença
-[GNU](https://www.gnu.org/licenses/gpl-3.0.en.html)
-
-## Link do projeto no PyPi
-View at:
-https://pypi.org/project/image-processing-ghf-package/0.0.1/
 
 
